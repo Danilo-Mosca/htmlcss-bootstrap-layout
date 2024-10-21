@@ -1,0 +1,8 @@
+.debug {
+    border: 1px solid red;
+}
+
+.dm-text-white-bg-yellow {
+    color: white;
+    background-color: var(--bs-warning);
+}
